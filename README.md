@@ -3,7 +3,7 @@
 
 # Maxcoin for Android
 
-(![download](/images/icon-google-play.png)
+![download](/images/icon-google-play.png)
 (https://play.google.com/store/apps/details?id=com.breadwallet)
 
 ## Maxcoin Wallet

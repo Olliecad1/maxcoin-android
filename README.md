@@ -1,4 +1,4 @@
-![ƀ](/images/iconn.png) 
+![ƀ](/images/128.png) 
 
 
 # Maxcoin for Android

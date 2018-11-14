@@ -9,3 +9,6 @@
 [submodule "app/src/main/jni/sumpay-core"]
 	path = app/src/main/jni/sumpay-core
 	url = https://github.com/sumcoinlabs/sumpay-core.git
+[submodule "app/src/main/jni/maxcoin-core"]
+	path = app/src/main/jni/maxcoin-core
+	url = https://github.com/Max-Coin/maxcoin-ios-android-wallet-core
